@@ -107,11 +107,11 @@ Visualized customer segments and cluster centroids.
 
 ### Elbow Method Graph
 
-![Elbow Method Graph](Elbow Method Graph.png)
+![Elbow Method Graph](Elbow_Method_Graph.png)
 
 ### Customer Segmentation Graph
 
-![Customer Segmentation Graph](Customer Segmentation Graph.png)
+![Customer Segmentation Graph](Customer_Segmentation_Graph.png)
 
 ### Cluster Output
 
